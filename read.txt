@@ -4,3 +4,4 @@ git has a mutable index called stage
 git tracks changes of files
 boss is stupid
 enfin je suis un petit peu = = 
+new line added
